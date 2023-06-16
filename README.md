@@ -1,11 +1,11 @@
-About r-postlogic
-=================
+About r-postlogic-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-postlogic-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RDocTaskForce/postlogic
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-postlogic-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides adds postfix and infix logic operators for if, then, unless, and otherwise.
 
